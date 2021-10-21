@@ -1,4 +1,4 @@
-function validatePassword(password) {        
+function validatePassword() {        
         
-        alert(password)
+        alert("OK")
       }
