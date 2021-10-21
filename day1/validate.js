@@ -1,5 +1,5 @@
 function myFunction() {
-        document.getElementById("resultado").innerHTML =
+        document.getElementByID("resultado").innerHTML =
             "Wrong Password. Try Again!";
         alert("Hola!!!");
       }
