@@ -1,3 +1,3 @@
 function validatePassword() {        
-        alert("OK)
+        alert("OK")
       }
